@@ -1,1 +1,1 @@
-<img width="1408" height="736" alt="velocikit-white-red" src="https://github.com/user-attachments/assets/ac27a506-1ac2-48c4-9990-13177beac56f" />
+<img width="1408" height="736" alt="simple-tempoloop-white-logo" src="https://github.com/user-attachments/assets/39115d6f-1afa-4cf8-a101-bb7b64abfd1f" />
